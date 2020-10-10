@@ -10,6 +10,9 @@ I created my portfolio website which contains following files :
 7. `top.js`
 8. `images folder`
 
+## My Portfolio
+This is simply my portfolio website which is cross platform compatible and responsive (will also work fine on mobile screen).
+
 ## HTML
 There are 4 html pages in my website, which are divided into subdivisions using div tags. All four html pages are connected with a top navigation bar.
 
