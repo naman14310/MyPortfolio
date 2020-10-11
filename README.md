@@ -22,3 +22,7 @@ I have used w3.css framework for styling purpose, font awesome library for icons
 ## JavaScript
 I used two external js files i.e. `slideshow.js` (for creating slideshow of my projects in project section) and `top.js` (for creating a button which is used to move to the top section of website)
 
+## Link to the website
+
+[Click here](https://web.iiit.ac.in/~naman.j/) to visit my portfolio website 
+
